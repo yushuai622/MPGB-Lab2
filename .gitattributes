@@ -1,12 +1,1 @@
-README.md filter=lfs diff=lfs merge=lfs -text
-obj filter=lfs diff=lfs merge=lfs -text
-unity.gitignore.txt filter=lfs diff=lfs merge=lfs -text
-Assets filter=lfs diff=lfs merge=lfs -text
-Library filter=lfs diff=lfs merge=lfs -text
-MPGB-Lab2-Build filter=lfs diff=lfs merge=lfs -text
-Packages filter=lfs diff=lfs merge=lfs -text
-ProjectSettings filter=lfs diff=lfs merge=lfs -text
-MPGB-Lab2.sln filter=lfs diff=lfs merge=lfs -text
-UserSettings filter=lfs diff=lfs merge=lfs -text
-Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
-Logs filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
